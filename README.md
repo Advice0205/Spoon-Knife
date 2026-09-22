@@ -1,4 +1,4 @@
-### Well hello there tset edit !
+### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
@@ -7,3 +7,7 @@ Creating a *fork* is producing a personal copy of someone else's project. Forks 
 After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+
+本章认识：学习掌握GitHub的Fork复刻仓库、修改文件、提交更新、Pull Request拉取请求的协作基本流程。
+示例来源：octocat/Spoon‑Knife 仓库
+完成的修改：编辑README.md文档，补充本章学习记录。
